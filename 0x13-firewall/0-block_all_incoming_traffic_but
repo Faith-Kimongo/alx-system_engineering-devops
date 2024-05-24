@@ -1,3 +1,4 @@
+# enable a few ports in the firewall
 sudo apt update
 sudo apt install ufw -y
 sudo ufw enable
